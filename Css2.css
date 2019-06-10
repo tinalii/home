@@ -1,0 +1,34 @@
+h1
+{
+  color:rgb(135,206,235);
+  text-align:Fjalla One;
+  font-size:40pt;
+}
+h2
+{
+	color:rgb(135,206,235);
+	font-size:40pt;
+}
+p
+{
+	text-align:Fjalla One;
+	font-size:25;
+
+}
+body
+{
+	background-color:rgb(255,255,224)
+}
+.center
+{
+	text-align:center;
+}
+/* adding a boder, padding and marging to every image*/
+img
+{
+	border-color:black;
+	border-width:medium;
+	border-style:solid;
+	padding:1%;
+	margin:2%;
+}
